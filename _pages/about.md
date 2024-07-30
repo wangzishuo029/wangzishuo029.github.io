@@ -27,13 +27,13 @@ Beyond academia, I am passionate about football and Hip-Hop music, which helps m
 
   **Zishuo Wang**, Wenhao Zhou, Jinglin Xu, Yuxin Peng.
 
-  ACM Multimedia (*ACM MM*) 2024.
+  ACM Multimedia (*ACM MM* ) 2024.
 
 - **FineParser: A Fine-grained Spatio-temporal Action Parser for Human-centric Action Quality Assessment** [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_FineParser_A_Fine-grained_Spatio-temporal_Action_Parser_for_Human-centric_Action_Quality_CVPR_2024_paper.html) [Code](https://github.com/PKU-ICST-MIPL/FineParser_CVPR2024) [Project Page](https://pku-icst-mipl.github.io/FineParser_ProjectPage/)
 
   Jinglin Xu, Sibo Yin, Guohao Zhao, **Zishuo Wang**, Yuxin Peng.
 
-  IEEE/CVF Conference on Computer Vision and Pattern Recognition (*CVPR*) 2024.
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (*CVPR* ) 2024.
 
 Thank you for visiting, and I look forward to connecting with you!
 
