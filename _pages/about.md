@@ -7,10 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+Hello! I'm Zishuo Wang (王梓烁), currently a Master's Student at [Wangxuan Institute of Computer Technology, Peking University]([北京大学王选计算机研究所 (pku.edu.cn)](https://www.icst.pku.edu.cn/)). My research interests primarily focus on Multimodal and Computer Vision, with a particular emphasis on Open-Vocabulary Learning. 
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am pursuing my Master's degree at [Multimedia Information Processing Lab (MIPL)]([北京大学王选计算机研究所多媒体信息处理研究室 : 主页](http://39.108.48.32/mipl/home/)), under the supervision of [Prof. Yuxin Peng]([北京大学王选计算机研究所多媒体信息处理研究室 : 彭宇新](http://39.108.48.32/mipl/pengyuxin/)).
+
+Beyond academia, I am passionate about football and Hip-Hop music, which helps me stay creative and motivated in my research work.
 
 - [Email](wangzishuo@pku.edu.cn): wangzishuo@pku.edu.cn
 - [Github](https://github.com/wangzishuo029)
 - [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=SKVi1LcAAAAJ)
+
+## Education
+
+- B.Sc. in Computer Science and Technology, Peking University, Sept. 2019 - Jul. 2023
+
+## Publications
+
+- **SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection**
+
+  **Zishuo Wang**, Wenhao Zhou, Jinglin Xu, Yuxin Peng.
+
+  ACM Multimedia (*ACM MM*) 2024.
+
+- **FineParser: A Fine-grained Spatio-temporal Action Parser for Human-centric Action Quality Assessment**
+
+  Jinglin Xu, Sibo Yin, Guohao Zhao, **Zishuo Wang**, Yuxin Peng.
+
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (*CVPR*) 2024.
+
+Thank you for visiting, and I look forward to connecting with you!
+
