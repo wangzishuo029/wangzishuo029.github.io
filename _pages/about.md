@@ -23,13 +23,13 @@ Beyond academia, I am passionate about football and Hip-Hop music, which helps m
 
 ## Publications
 
-- **SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection**
+- **SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection** [Paper](https://openreview.net/forum?id=TqRqTw3itr)
 
   **Zishuo Wang**, Wenhao Zhou, Jinglin Xu, Yuxin Peng.
 
   ACM Multimedia (*ACM MM*) 2024.
 
-- **FineParser: A Fine-grained Spatio-temporal Action Parser for Human-centric Action Quality Assessment**
+- **FineParser: A Fine-grained Spatio-temporal Action Parser for Human-centric Action Quality Assessment** [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_FineParser_A_Fine-grained_Spatio-temporal_Action_Parser_for_Human-centric_Action_Quality_CVPR_2024_paper.html) [Code](https://github.com/PKU-ICST-MIPL/FineParser_CVPR2024) [Project Page](https://pku-icst-mipl.github.io/FineParser_ProjectPage/)
 
   Jinglin Xu, Sibo Yin, Guohao Zhao, **Zishuo Wang**, Yuxin Peng.
 
