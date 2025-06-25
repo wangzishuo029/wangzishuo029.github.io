@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Zishuo Wang (王梓烁), currently a Master's Student at [Wangxuan Institute of Computer Technology, Peking University](https://www.icst.pku.edu.cn). My research interests primarily focus on Multimodal and Computer Vision, with a particular emphasis on Open-Vocabulary Learning. 
+Hello! I'm Zishuo Wang (王梓烁), currently a Master's Student at [Wangxuan Institute of Computer Technology, Peking University](https://www.icst.pku.edu.cn). My research interests primarily focus on Multimodal and Computer Vision, with a particular emphasis on Efficient Large Vision-Language Models. 
 
 I am pursuing my Master's degree at [Multimedia Information Processing Lab (MIPL)](http://39.108.48.32/mipl/home), under the supervision of [Prof. Yuxin Peng](http://39.108.48.32/mipl/pengyuxin).
 
@@ -20,6 +20,7 @@ Beyond academia, I am passionate about football and Hip-Hop music, which helps m
 ## Education
 
 - B.Sc. in Computer Science and Technology, Peking University, Sept. 2019 - Jul. 2023
+- M.Sc. in Multimedia Intelligence, Peking University, Sept. 2023 - Now
 
 ## Publications
 
