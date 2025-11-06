@@ -35,6 +35,12 @@ Beyond academia, I am passionate about football and Hip-Hop music, which helps m
   Jinglin Xu, Sibo Yin, Guohao Zhao, **Zishuo Wang**, Yuxin Peng.
 
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (*CVPR* ) 2024.
+  
+- **CTP2FIC: FROM COARSE‑GRAINED TOKEN PRUNING TO FINE‑GRAINED TOKEN CLUSTERING FOR LVLM INFERENCE ACCELERATION** [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5545751)
 
+  Yulong Lei, **Zishuo Wang**, Jinglin Xu, Yuxin Peng.
+
+  China National Conference on Multimedia (*ChinaMM* ) 2025, *SSRN's Top Downloads list*.
+  
 Thank you for visiting, and I look forward to connecting with you!
 
