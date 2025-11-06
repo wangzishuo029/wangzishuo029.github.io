@@ -24,7 +24,7 @@ Beyond academia, I am passionate about football and Hip-Hop music, which helps m
 
 ## Publications
 
-- **SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection** [Paper](https://openreview.net/forum?id=TqRqTw3itr)
+- **SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection** [Paper](https://openreview.net/forum?id=TqRqTw3itr) [Code](https://github.com/PKU-ICST-MIPL/SIA-OVD_ACMMM2024)
 
   **Zishuo Wang**, Wenhao Zhou, Jinglin Xu, Yuxin Peng.
 
