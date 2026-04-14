@@ -48,7 +48,7 @@ Beyond academia, I am passionate about football and Hip-Hop music, which helps m
 
   Chinese Journal of Electronics (*CJE* ) 2026.
 
-- **CTP2FIC: FROM COARSE‑GRAINED TOKEN PRUNING TO FINE‑GRAINED TOKEN CLUSTERING FOR LVLM INFERENCE ACCELERATION** [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5545751)
+- **Ctp2Fic: From Coarse-grained Token Pruning to Fine-grained Token Clustering for LVLM Inference Acceleration** [Paper](https://www.sciencedirect.com/science/article/pii/S0141938226000235)
 
   Yulong Lei, **Zishuo Wang**, Jinglin Xu, Yuxin Peng.
 
