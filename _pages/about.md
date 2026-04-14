@@ -34,19 +34,19 @@ Beyond academia, I am passionate about football and Hip-Hop music, which helps m
 
   Jinglin Xu, Sibo Yin, Guohao Zhao, **Zishuo Wang**, Yuxin Peng.
 
-  IEEE/CVF Conference on Computer Vision and Pattern Recognition (*CVPR* ) 2024.
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (*CVPR Oral* ) 2024.
 
 - **FinePruner: Unbiased Attention-Head-Level Fine-grained Token Reduction for Efficient Inference of Large Vision-Language Models**
 
   **Zishuo Wang**, Xiangtian Zheng, Yuxin Peng.
 
-  IEEE Transactions on Image Processing (*TIP*) 2026.
+  IEEE Transactions on Image Processing (*TIP* ) 2026.
   
 - **A Survey on Fine-Grained Multimodal Large Language Models** [Paper](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2025.00.336)
 
   Yuxin Peng, **Zishuo Wang**, Geng Li, Xiangtian Zheng, Sibo Yin, Hulingxiao He.
 
-  Chinese Journal of Electronics (*CJE*) 2026.
+  Chinese Journal of Electronics (*CJE* ) 2026.
 
 - **CTP2FIC: FROM COARSE‑GRAINED TOKEN PRUNING TO FINE‑GRAINED TOKEN CLUSTERING FOR LVLM INFERENCE ACCELERATION** [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5545751)
 
