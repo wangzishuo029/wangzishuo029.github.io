@@ -42,6 +42,12 @@ Beyond academia, I am passionate about football and Hip-Hop music, which helps m
 
   IEEE Transactions on Image Processing (*TIP*) 2026.
   
+- **A Survey on Fine-Grained Multimodal Large Language Models** [Paper](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2025.00.336)
+
+  Yuxin Peng, **Zishuo Wang**, Geng Li, Xiangtian Zheng, Sibo Yin, Hulingxiao He.
+
+  Chinese Journal of Electronics (*CJE*) 2026.
+
 - **CTP2FIC: FROM COARSE‑GRAINED TOKEN PRUNING TO FINE‑GRAINED TOKEN CLUSTERING FOR LVLM INFERENCE ACCELERATION** [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5545751)
 
   Yulong Lei, **Zishuo Wang**, Jinglin Xu, Yuxin Peng.
