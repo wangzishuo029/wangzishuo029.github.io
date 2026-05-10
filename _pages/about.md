@@ -36,7 +36,7 @@ Beyond academia, I am passionate about football and Hip-Hop music, which helps m
 
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (*CVPR Oral* ) 2024.
 
-- **FinePruner: Unbiased Attention-Head-Level Fine-grained Token Reduction for Efficient Inference of Large Vision-Language Models**
+- **FinePruner: Unbiased Attention-Head-Level Fine-grained Token Reduction for Efficient Inference of Large Vision-Language Models** [Paper](https://ieeexplore.ieee.org/document/11508157) [Code](https://github.com/PKU-ICST-MIPL/FinePruner_TIP2026)
 
   **Zishuo Wang**, Xiangtian Zheng, Yuxin Peng.
 
