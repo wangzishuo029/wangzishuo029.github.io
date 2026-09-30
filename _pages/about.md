@@ -44,7 +44,9 @@ Beyond academia, I am passionate about football and Hip-Hop music, which helps m
 
 - **LADDERS: Length-Aware Data Distribution and Existing-Response Speculation for Fast RL Rollout Generation**
 
-  [Shengpeng Yin](https://openreview.net/profile?id=~Shengpeng_Yin1)\*, [Hui-Ling Zhen](https://openreview.net/profile?id=~Hui-Ling_Zhen1), [Xing Li](https://openreview.net/profile?id=~Xing_Li6), [Mingxuan Yuan](https://openreview.net/profile?id=~Mingxuan_Yuan1), [**Zishuo Wang**](https://openreview.net/profile?id=~Zishuo_Wang2), [Yuxin Peng](https://openreview.net/profile?id=~Yuxin_Peng1).
+  Shengpeng Yin\*, Hui-Ling Zhen, Xing Li, Mingxuan Yuan, **Zishuo Wang**, Yuxin Peng.
+
+  Conference on Neural Information Processing Systems (*NeurIPS* ) 2026.
 
 - **A Survey on Fine-Grained Multimodal Large Language Models** [Paper](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2025.00.336)
 
