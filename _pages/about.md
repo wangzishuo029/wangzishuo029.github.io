@@ -30,18 +30,22 @@ Beyond academia, I am passionate about football and Hip-Hop music, which helps m
 
   ACM Multimedia (*ACM MM* ) 2024.
 
+- **FinePruner: Unbiased Attention-Head-Level Fine-grained Token Reduction for Efficient Inference of Large Vision-Language Models** [Paper](https://ieeexplore.ieee.org/document/11508157) [Code](https://github.com/PKU-ICST-MIPL/FinePruner_TIP2026)
+
+  **Zishuo Wang**, Xiangtian Zheng, Yuxin Peng.
+
+  IEEE Transactions on Image Processing (*TIP* ) 2026.
+
 - **FineParser: A Fine-grained Spatio-temporal Action Parser for Human-centric Action Quality Assessment** [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_FineParser_A_Fine-grained_Spatio-temporal_Action_Parser_for_Human-centric_Action_Quality_CVPR_2024_paper.html) [Code](https://github.com/PKU-ICST-MIPL/FineParser_CVPR2024) [Project Page](https://pku-icst-mipl.github.io/FineParser_ProjectPage/)
 
   Jinglin Xu, Sibo Yin, Guohao Zhao, **Zishuo Wang**, Yuxin Peng.
 
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (*CVPR Oral* ) 2024.
 
-- **FinePruner: Unbiased Attention-Head-Level Fine-grained Token Reduction for Efficient Inference of Large Vision-Language Models** [Paper](https://ieeexplore.ieee.org/document/11508157) [Code](https://github.com/PKU-ICST-MIPL/FinePruner_TIP2026)
+- **LADDERS: Length-Aware Data Distribution and Existing-Response Speculation for Fast RL Rollout Generation**
 
-  **Zishuo Wang**, Xiangtian Zheng, Yuxin Peng.
+  [Shengpeng Yin](https://openreview.net/profile?id=~Shengpeng_Yin1)\*, [Hui-Ling Zhen](https://openreview.net/profile?id=~Hui-Ling_Zhen1), [Xing Li](https://openreview.net/profile?id=~Xing_Li6), [Mingxuan Yuan](https://openreview.net/profile?id=~Mingxuan_Yuan1), [**Zishuo Wang**](https://openreview.net/profile?id=~Zishuo_Wang2), [Yuxin Peng](https://openreview.net/profile?id=~Yuxin_Peng1).
 
-  IEEE Transactions on Image Processing (*TIP* ) 2026.
-  
 - **A Survey on Fine-Grained Multimodal Large Language Models** [Paper](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2025.00.336)
 
   Yuxin Peng, **Zishuo Wang**, Geng Li, Xiangtian Zheng, Sibo Yin, Hulingxiao He.
